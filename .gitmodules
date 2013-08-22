@@ -1,0 +1,3 @@
+[submodule "flaskengine"]
+	path = flaskengine
+	url = https://github.com/eigenn/flaskengine.git
